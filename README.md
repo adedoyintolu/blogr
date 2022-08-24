@@ -15,7 +15,7 @@ This project uses [REACT](https://reactjs.org/) with Typescript, ESLint and Pret
 This setup guide is focused on helping you setup the BLOGR Frontend locally on your machine in development environment.
 
 ### Pre-requisite
-- Clone the BLOGR Frontend Repo [here](https://gitlab.ss-prd.mukuru.io/domains/remittances/epp/epp-frontend)
+- Clone the BLOGR Frontend Repo [here](https://github.com/adedoyintolu/blogr.git)
 
 ## Step 1
 First thing you should do is navigate into the root directory of the project and run `yarn` in your terminal to install project dependencies. This will create a `node_modules` folder in the project root directory.
